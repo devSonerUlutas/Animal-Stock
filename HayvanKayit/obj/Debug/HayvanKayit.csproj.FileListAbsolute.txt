@@ -1,0 +1,10 @@
+D:\C#\HayvanKayit\bin\Debug\HayvanKayit.exe.config
+D:\C#\HayvanKayit\bin\Debug\HayvanKayit.exe
+D:\C#\HayvanKayit\bin\Debug\HayvanKayit.pdb
+D:\C#\HayvanKayit\obj\Debug\HayvanKayit.csproj.AssemblyReference.cache
+D:\C#\HayvanKayit\obj\Debug\HayvanKayit.Form1.resources
+D:\C#\HayvanKayit\obj\Debug\HayvanKayit.Properties.Resources.resources
+D:\C#\HayvanKayit\obj\Debug\HayvanKayit.csproj.GenerateResource.cache
+D:\C#\HayvanKayit\obj\Debug\HayvanKayit.csproj.CoreCompileInputs.cache
+D:\C#\HayvanKayit\obj\Debug\HayvanKayit.exe
+D:\C#\HayvanKayit\obj\Debug\HayvanKayit.pdb
